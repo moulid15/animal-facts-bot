@@ -519,7 +519,7 @@ ANACONDA_FACTS = (
     'Baby Anacondas are 2 feet long and they are capable for individual life from the moment they are born.',
     'Anacondas can Remain Submerged for Up to Ten Minutes at a Time.',
     'The Green Anaconda is the Heaviest Known Snake, but Not the Longest.',
-    'Female Anaconda may mate with several males during the season.'
+    'Female anaconda may mate with several males during the season.'
     'They’re Members of the Boa Family.',
     'Caimans are alligator-like predators that frequent South American waterways. Anacondas are known to hunt these reptilian neighbors, but often sustain significant injuries while doing so.',
     'While getting around, snakes (including Anaconda) have several options, of which “sidewinding” is perhaps the most athletic. Unlike normal slithering, this exhausting technique involves a given reptile using large, J-shaped coils to hastily pull itself along. In general, smaller snakes are more likely to sidewind, although—as the above footage shows—their big cousins will sometimes follow suit.',
